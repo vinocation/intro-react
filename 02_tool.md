@@ -53,3 +53,18 @@ npm install -D eslint eslint-config-prettier
 
 npm run eslint -- --fix
 ```
+
+## Git
+
+git init
+
+```
+<!-- .gitignore  -->
+node_modules
+.cache/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
+```
