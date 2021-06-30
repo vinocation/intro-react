@@ -10,7 +10,7 @@ import Pet from './Pet'
 
 cont [ pets,setPets] = useState([])
 
-useEffect ()
+useEffect ()  
 
 
 ```
